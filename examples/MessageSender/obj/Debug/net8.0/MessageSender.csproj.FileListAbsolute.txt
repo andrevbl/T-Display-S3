@@ -1,0 +1,14 @@
+C:\Projetos\T-Display-S3\examples\MessageSender\bin\Debug\net8.0\MessageSender.exe
+C:\Projetos\T-Display-S3\examples\MessageSender\bin\Debug\net8.0\MessageSender.deps.json
+C:\Projetos\T-Display-S3\examples\MessageSender\bin\Debug\net8.0\MessageSender.runtimeconfig.json
+C:\Projetos\T-Display-S3\examples\MessageSender\bin\Debug\net8.0\MessageSender.dll
+C:\Projetos\T-Display-S3\examples\MessageSender\bin\Debug\net8.0\MessageSender.pdb
+C:\Projetos\T-Display-S3\examples\MessageSender\obj\Debug\net8.0\MessageSender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\T-Display-S3\examples\MessageSender\obj\Debug\net8.0\MessageSender.AssemblyInfoInputs.cache
+C:\Projetos\T-Display-S3\examples\MessageSender\obj\Debug\net8.0\MessageSender.AssemblyInfo.cs
+C:\Projetos\T-Display-S3\examples\MessageSender\obj\Debug\net8.0\MessageSender.csproj.CoreCompileInputs.cache
+C:\Projetos\T-Display-S3\examples\MessageSender\obj\Debug\net8.0\MessageSender.dll
+C:\Projetos\T-Display-S3\examples\MessageSender\obj\Debug\net8.0\refint\MessageSender.dll
+C:\Projetos\T-Display-S3\examples\MessageSender\obj\Debug\net8.0\MessageSender.pdb
+C:\Projetos\T-Display-S3\examples\MessageSender\obj\Debug\net8.0\MessageSender.genruntimeconfig.cache
+C:\Projetos\T-Display-S3\examples\MessageSender\obj\Debug\net8.0\ref\MessageSender.dll
