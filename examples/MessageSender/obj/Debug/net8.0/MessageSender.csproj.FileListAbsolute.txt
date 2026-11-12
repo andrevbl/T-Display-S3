@@ -12,3 +12,4 @@ C:\Projetos\T-Display-S3\examples\MessageSender\obj\Debug\net8.0\refint\MessageS
 C:\Projetos\T-Display-S3\examples\MessageSender\obj\Debug\net8.0\MessageSender.pdb
 C:\Projetos\T-Display-S3\examples\MessageSender\obj\Debug\net8.0\MessageSender.genruntimeconfig.cache
 C:\Projetos\T-Display-S3\examples\MessageSender\obj\Debug\net8.0\ref\MessageSender.dll
+C:\Projetos\T-Display-S3\examples\MessageSender\obj\Debug\net8.0\MessageSender.sourcelink.json

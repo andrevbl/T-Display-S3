@@ -10,6 +10,7 @@ const string defaultAddress = "192.168.4.1";
 
 Console.WriteLine("Conecte o computador à rede Wi-Fi T-Display-S3-Message antes de continuar.");
 Console.Write($"Conectando em {defaultAddress}... ");
+Console.Out.Flush();
 
 using var tcpClient = new TcpClient();
 try
